@@ -3,6 +3,26 @@ Lectures
 
 This project contains lecture-material of the teaching endeavours I'm involved in.
 
+
+--------------
+
+## BSc Cardiovascular diseases
+
+Since 2010 I lectured for a BSc course 'The role of the circulation and the arterial wall' for bachelor students Medicine/Medical Biology. These lectures can be found [here](BSc CVD). 
+
+
+--------------
+
+## BSc The role of the circulation and the arterial wall
+
+Since 2016 I lecture for a BSc course 'The role of the circulation and the arterial wall' for bachelor students Medicine/Medical Biology. These lectures can be found [here](BSc Blood & Artery). 
+
+--------------
+
+## MSc Genetic Epidemiology
+
+Since 2017 I lecture in the MSc course 'Genetic Epidemiology' for master students Epidemiology of the Julius Center Utrecht. These lectures can be found [here](MSc Genetic Epidemiology). 
+
 --------------
 
 #### The MIT License (MIT)
